@@ -1,2 +1,2 @@
-#magma_misc
-A collection of magma functions.
+# Magma_misc
+A collection of functions written in magma.
